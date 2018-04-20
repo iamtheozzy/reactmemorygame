@@ -1,0 +1,24 @@
+.jumbo-tron {
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://wallpapercave.com/wp/wp1924064.jpg");
+    margin-top: 70px;
+  }
+  
+  .jumbo-tron * {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .jumbo-tron h1, .jumbo-tron h2 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .jumbo-tron h1 {
+    padding-top: 100px;
+    margin-top: 0;
+  }
+  
